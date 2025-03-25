@@ -31,8 +31,8 @@ namespace Calculadora.ConsoleApp1
                 Console.WriteLine("3 - Multiplicação");               
                 Console.WriteLine("4 - Divisão");
                 Console.WriteLine("5 - tabuada");
+                Console.WriteLine("6 - Historico");
                 Console.WriteLine("S - Sair");
-                Console.WriteLine("Historico");
                 Console.WriteLine("------------------------------------");
 
 

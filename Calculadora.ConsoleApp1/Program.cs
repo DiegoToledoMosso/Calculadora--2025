@@ -7,7 +7,7 @@ namespace Calculadora.ConsoleApp1
         static void Main(string[] args)
         {           
 
-            //vetores
+          
             string[] historicoOperacoes = new string[100];
 
             int contadorHistorico = 0;

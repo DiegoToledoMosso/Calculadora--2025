@@ -151,11 +151,13 @@ namespace Calculadora.ConsoleApp1
 
 
 
-                    Console.WriteLine("------------------------------------");
+                Console.WriteLine("------------------------------------");
                 Console.WriteLine("Resultado é : " + resultado.ToString("F2")); //flo
                 Console.WriteLine("------------------------------------");
 
                 Console.ReadLine();
+                
+
 
 
             }

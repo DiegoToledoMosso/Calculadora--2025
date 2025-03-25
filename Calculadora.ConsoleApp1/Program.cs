@@ -94,15 +94,10 @@ namespace Calculadora.ConsoleApp1
 
                     Console.WriteLine("------------------------------------");
                 Console.Write("Digite o primeiro número: ");
-                string strprimeiroNumero = Console.ReadLine();
-
-                decimal primeiroNumero = Convert.ToDecimal(strprimeiroNumero);
-
+                decimal primeiroNumero = Convert.ToDecimal(Console.ReadLine());
 
                 Console.Write("Digite o segundo número: ");
-                string strsegundoNumero = Console.ReadLine();
-
-                decimal segundoNumero = Convert.ToDecimal(strsegundoNumero);
+                decimal segundoNumero = Convert.ToDecimal(Console.ReadLine());
 
                 //numero decimais(com casas)
                 //float resultadoFloat = 0.1212311f;

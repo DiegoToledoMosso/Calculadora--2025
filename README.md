@@ -1,5 +1,7 @@
 # Calculadora Tabajara 2025
 
+![](https://imgur.com/DH1aOhu.gif)
+
 ## Introdução
 
 Uma calculadora de console simples que permite realizar as quatro operações, além de visualizar a tabuada e o histórico de operações.

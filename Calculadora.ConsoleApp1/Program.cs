@@ -106,7 +106,7 @@ namespace Calculadora.ConsoleApp1
 
                 decimal resultado = 0.0m;
 
-                //estrutura de decisão se(if)
+                
                 if (opcao == "1")
                 {
                     //Soma
